@@ -157,10 +157,6 @@ Run the test suite using Gradle:
 
 Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or support, please contact **Lavish Vaishnav** at [vaishnavlavish27@gmail.com](mailto:vaishnavlavish27@gmail.com).
